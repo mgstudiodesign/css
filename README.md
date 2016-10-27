@@ -7,4 +7,8 @@ Everything about CSS, UX and design
 
 [__Thoughtful CSS Architecture__](https://seesparkbox.com/foundry/thoughtful_css_architecture): Artigo sobre planejamento da arquitetura CSS. Interessante a maneira em que é possível ler o artigo completo ou visualizar somente a estrutura do artigo (_Quick Read_).
 
-[__Performance com múltiplas imagens de background__](http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/): Técnica manual, parecida com a usada no Medium. 
+[__Performance com múltiplas imagens de background__](http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/): Técnica manual, parecida com a usada no Medium.
+
+[__Animações com SVG__](https://www.oreilly.com/learning/introduction-to-svg-animation)
+
+[__On Style Mantenance__](https://css-tricks.com/on-style-maintenance/): Sobre a manutenção de folhas de estilo
