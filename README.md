@@ -12,3 +12,5 @@ Everything about CSS, UX and design
 [__Animações com SVG__](https://www.oreilly.com/learning/introduction-to-svg-animation)
 
 [__On Style Mantenance__](https://css-tricks.com/on-style-maintenance/): Sobre a manutenção de folhas de estilo
+
+[__Ways To Reduce Content Shifting On Page Load__](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) Formas de reduzir o crescimento do conteúdo quando a página está carregando
