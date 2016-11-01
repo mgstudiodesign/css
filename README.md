@@ -14,3 +14,5 @@ Everything about CSS, UX and design
 [__On Style Mantenance__](https://css-tricks.com/on-style-maintenance/): Sobre a manutenção de folhas de estilo
 
 [__Ways To Reduce Content Shifting On Page Load__](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) Formas de reduzir o crescimento do conteúdo quando a página está carregando
+
+[__Falando sobre RSCSS__](https://willianjusten.com.br/falando-sobre-rscss/) Escrevendo CSS sem perder a sanidade. Aprenda uma metodologia que pode salvar muitas dores de cabeça.
