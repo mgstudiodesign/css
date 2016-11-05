@@ -16,3 +16,5 @@ Everything about CSS, UX and design
 [__Ways To Reduce Content Shifting On Page Load__](https://www.smashingmagazine.com/2016/08/ways-to-reduce-content-shifting-on-page-load/) Formas de reduzir o crescimento do conteúdo quando a página está carregando
 
 [__Falando sobre RSCSS__](https://willianjusten.com.br/falando-sobre-rscss/) Escrevendo CSS sem perder a sanidade. Aprenda uma metodologia que pode salvar muitas dores de cabeça.
+
+[__CSS crítico deve ser colocado inline__](https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/): Introdução sobre o que é CSS crítico e como e porque acrescentá-lo ao HTML.
