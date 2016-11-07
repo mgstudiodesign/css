@@ -22,3 +22,5 @@ Everything about CSS, UX and design
 [__Things I’ve Learned About CSS Grid Layout__](https://css-tricks.com/things-ive-learned-css-grid-layout): Da série HEA (Hoje eu aprendi)
 
 [__Animações__](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.npi7bu4k4): Fiquei em dúvida se colocava em JS, mas acho que é mais de UX, como fazer as animações ficarem interessantes e performáticas para o usuário.
+
+[__E o hamburger ainda não é uma boa idéia](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.ryi508cfa): A não ser o do TT, Hell's, BK, MacD, Bob's, etc.
