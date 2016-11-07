@@ -18,3 +18,6 @@ Everything about CSS, UX and design
 [__Falando sobre RSCSS__](https://willianjusten.com.br/falando-sobre-rscss/) Escrevendo CSS sem perder a sanidade. Aprenda uma metodologia que pode salvar muitas dores de cabeça.
 
 [__CSS crítico deve ser colocado inline__](https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/): Introdução sobre o que é CSS crítico e como e porque acrescentá-lo ao HTML.
+
+[__Things I’ve Learned About CSS Grid Layout__](https://css-tricks.com/things-ive-learned-css-grid-layout): Da série HEA (Hoje eu aprendi)
+>>>>>>> Stashed changes
