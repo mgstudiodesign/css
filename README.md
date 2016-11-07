@@ -20,4 +20,5 @@ Everything about CSS, UX and design
 [__CSS crítico deve ser colocado inline__](https://www.sitepoint.com/how-and-why-you-should-inline-your-critical-css/): Introdução sobre o que é CSS crítico e como e porque acrescentá-lo ao HTML.
 
 [__Things I’ve Learned About CSS Grid Layout__](https://css-tricks.com/things-ive-learned-css-grid-layout): Da série HEA (Hoje eu aprendi)
->>>>>>> Stashed changes
+
+[__Animações__](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.npi7bu4k4): Fiquei em dúvida se colocava em JS, mas acho que é mais de UX, como fazer as animações ficarem interessantes e performáticas para o usuário.
