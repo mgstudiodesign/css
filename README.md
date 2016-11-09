@@ -26,3 +26,6 @@ Everything about CSS, UX and design
 [__E o hamburger ainda não é uma boa idéia__](https://medium.com/@kollinz/hamburger-menu-alternatives-for-mobile-navigation-a3a3beb555b8#.ryi508cfa): A não ser o do TT, Hell's, BK, MacD, Bob's, etc.
 
 [__CSS Architecture for Design Systems__](http://bradfrost.com/blog/post/css-architecture-for-design-systems/): Sistema de design para um projeto grande, para facilitar manutenção, muita gente mexendo, etc.
+
+[__SASS Guideline__](https://sass-guidelin.es/): Para escrever SCSS são e fácil de manter. Deve dar pra adptar pra sistemas inferiores, como por exemplo stylus ;-)
+
