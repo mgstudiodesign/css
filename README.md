@@ -29,3 +29,8 @@ Everything about CSS, UX and design
 
 [__SASS Guideline__](https://sass-guidelin.es/): Para escrever SCSS são e fácil de manter. Deve dar pra adptar pra sistemas inferiores, como por exemplo stylus ;-)
 
+[__CSS Grid - PQC__](https://github.com/rachelandrew/cssgrid-ama): Pergunte-me qualquer coisa (ao cara do artigo, não eu) sobre CSS Grid
+
+[__Flex box e frameworks__](http://codepen.io/morganfeeney/post/dont-build-bootstrap-style-grid-systems-with-flexbox): Porquê não usar o Bootstrap ou qualquer outro tipo de framework com Flexbox. Quer dizer, qualquer menos o do cara aí.
+
+[__Princípios de Design__](https://principles.adactio.com/): Auto-explicativo.
