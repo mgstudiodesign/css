@@ -34,3 +34,9 @@ Everything about CSS, UX and design
 [__Flex box e frameworks__](http://codepen.io/morganfeeney/post/dont-build-bootstrap-style-grid-systems-with-flexbox): Porquê não usar o Bootstrap ou qualquer outro tipo de framework com Flexbox. Quer dizer, qualquer menos o do cara aí.
 
 [__Princípios de Design__](https://principles.adactio.com/): Auto-explicativo.
+
+[__Webfonts__](http://meowni.ca/posts/web-fonts/): E usabilidade.
+
+[__+ flexbox e grid e layout__](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/): Sempre defendi.
+
+[__Top 127 codepens úteis para Front End__](http://codepen.io/collection/nMgKxJ/#): Na verdade é um montão. Não contei.
