@@ -40,3 +40,6 @@ Everything about CSS, UX and design
 [__+ flexbox e grid e layout__](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/): Sempre defendi.
 
 [__Top 127 codepens úteis para Front End__](http://codepen.io/collection/nMgKxJ/#): Na verdade é um montão. Não contei.
+
+[__8 regras para uma arquitetura de software robusta__](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170#.apf3y0rbl): Variações do mesmo tema sem sair do tom. Interessante separar os CSSses e os JSses por módulos e não por pastas CSS e JS, por exemplo.
+
