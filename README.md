@@ -1,6 +1,10 @@
 # css
 Everything about CSS, UX and design
 
+## Ferramentas
+
+[__Usando o Dev Tools do Chrome para analizar o CSS__](https://umaar.com/dev-tips/121-css-coverage/)
+
 ## Artigos
 
 [__Coding mobile-first emails__](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.kxx2nm1h2) A practical step-by-step guide. Codificando um email que funciona em smartphones
