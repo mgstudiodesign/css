@@ -5,6 +5,10 @@ Everything about CSS, UX and design
 
 [__Usando o Dev Tools do Chrome para analizar o CSS__](https://umaar.com/dev-tips/121-css-coverage/)
 
+## Vídeos   
+
+[__Debugando com Paul Irish__](https://www.youtube.com/watch?v=HF1luRD4Qmk): Vídeo sobre debugar a web com Paul Irish no Chrome Summit
+
 ## Artigos
 
 [__Coding mobile-first emails__](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e#.kxx2nm1h2) A practical step-by-step guide. Codificando um email que funciona em smartphones
