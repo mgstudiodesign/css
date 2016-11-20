@@ -53,3 +53,4 @@ Everything about CSS, UX and design
 
 ## Tutoriais
 [__Line Menu Styles__](http://tympanus.net/Development/LineMenuStyles/) Várias ideias para efeitos de menu com linhas
+[__Menu Hamburguer animado em SVG__](http://tympanus.net/Tutorials/AnimatedMenuIcon/)
