@@ -51,6 +51,8 @@ Everything about CSS, UX and design
 
 [__8 regras para uma arquitetura de software robusta__](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170#.apf3y0rbl): Variações do mesmo tema sem sair do tom. Interessante separar os CSSses e os JSses por módulos e não por pastas CSS e JS, por exemplo.
 
+[__The 100% correct way to do CSS breakpoints__](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.lxb4j0439): Breakpoints: você está fazendo errado.
+
 ## Tutoriais
 [__Line Menu Styles__](http://tympanus.net/Development/LineMenuStyles/) Várias ideias para efeitos de menu com linhas
 
